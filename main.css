@@ -1,0 +1,50 @@
+body {
+    background-color: red;
+}
+
+
+
+#number-two {
+    color: black;
+}
+
+#size {
+    font-size: x-large;
+}
+ .wrapper {
+     margin: 5px;
+    border: 5px solid
+ }
+
+ h1 {
+     text-align: center;
+     color: black;
+ }
+
+ .example-one {
+     height: 150px;
+     width: 50%;
+     background-color: black;
+ }
+
+ #title-p {
+     text-align: center;
+ }
+
+ .border-style li {
+     margin: 5px;
+ }
+
+ .border-style li:nth-child(1) {
+     border-style: double;
+ }
+
+ .one {
+     border: 10px blue solid;
+     margin: 10%;
+ }
+
+ #two {
+    border: 10px purple solid;
+    padding: 10%;
+}
